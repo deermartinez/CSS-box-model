@@ -1,15 +1,45 @@
+body{
+background-color: rgb(64, 22, 85);
+}
 
+
+
+nav{    
+  float: right;
+  font-family:cursive;
+  word-spacing: 18px;
+}
 
 
 h1{
-    border:black 20px double;
-    width: 50%;
 
+    font-family: Cambria, Cochin, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding:50px;
 }
 
-h2{
-    border:aqua 12px dotted;
-    width:10%;
+
+img {
+    float: left;
+    padding: 10px;
+    border:inset rgb(66, 11, 57) 10px;
+  }
 
 
+  p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  footer{
+    text-align: center;
+    float: center;
+    margin-top: 300px;
+  }
+
+  h2{
+    text-align: center;
 }
+
